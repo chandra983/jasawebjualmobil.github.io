@@ -1311,8 +1311,8 @@ section,
   align-items: center;
   justify-content: center;
   border-radius: 10px;
-  width: 250px;
-  height: 64px;
+  width: 200px;
+  height: 60px;
 }
 
 .services .service-card .service-icon i {
